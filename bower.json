@@ -1,0 +1,10 @@
+{
+  "name": "snapsvganimator",
+  "version": "1.0",
+  "main": "SnapSVGAnimator.min.js.js",
+  "description": "This is the generated file from the Snap SVG Adobe plugin export",
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
